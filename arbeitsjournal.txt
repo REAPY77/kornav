@@ -1,0 +1,2 @@
+05.09.26
+Aufbau vom Journalctl Prozess starter ist funktionsfähig, nimmt ein ArrayList entgegen welche später Parameter beinhalten soll, der ProcessStarter Method wird bei dem Konstruktor des Log Reader aufgerufen und gibt den InputStream von Journalctl weiter welche bei einem BufferedReader angegeben wird, erster Test mit nur einem sout(reader.readline()) klappen.
