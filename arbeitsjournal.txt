@@ -1,2 +1,18 @@
 05.09.26
 Aufbau vom Journalctl Prozess starter ist funktionsfähig, nimmt ein ArrayList entgegen welche später Parameter beinhalten soll, der ProcessStarter Method wird bei dem Konstruktor des Log Reader aufgerufen und gibt den InputStream von Journalctl weiter welche bei einem BufferedReader angegeben wird, erster Test mit nur einem sout(reader.readline()) klappen.
+
+05.09.26-23.09.2026
+Vergessen dieses Journal zu führen bis zum 23.09.26 bis dahin wurden alle Verarbeitungslogik geschrieben aber noch nicht funktionsfähig
+
+
+24.09.26
+
+Alle Klassen funktionieren richtig zur zeit.
+
+
+01.10.26
+Examiner class fertiggestellt jedoch funktioniert etwas nicht richtig-
+
+
+8.10.26
+Git commit und push, Code funktioniert momentan noch nicht richtig da mir keine schlauen ideenen einfallen wie man die logic implementieren könnte.
